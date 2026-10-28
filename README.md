@@ -33,5 +33,5 @@ my-portfolio/
 │   └── tailwind.config.js# Tailwind configuration
 └── README.md 
 
-
+Live link = https://my-portfolio-amber-rho-79.vercel.app/
 Repository link = https://github.com/takiyacodes/my-portfolio.git 
