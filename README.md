@@ -1,16 +1,34 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🚀 My Portfolio Website
 
-Currently, two official plugins are available:
+A modern, responsive, and interactive personal portfolio website built to showcase my skills, projects, and professional background as a Full-Stack Web Developer.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Tech Stack
 
-## React Compiler
+This project is built using modern web technologies:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **Frontend:** React, Vite, JavaScript (JSX)
+* **Styling:** Tailwind CSS
+* **Icons:** React Icons
+* **Deployment Ready:** Vercel
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **Responsive Design:** Fully optimized for mobile, tablet, and desktop screens.
+* **Interactive Navigation:** Smooth scrolling and clear section navigation (Home, About, Skills, Projects, Education, Contact).
+* **Project Showcase:** Highlights featured web development projects with details.
+* **Call to Action:** Quick "Say Hello" and contact options for easy networking.
+
+## 📂 Project Structure
+
+```text
+my-portfolio/
+├── frontend/             # Main frontend application
+│   ├── src/
+│   │   ├── components/   # Reusable UI components (Navbar, Hero, About, Projects, etc.)
+│   │   ├── assets/       # Images and static assets
+│   │   ├── App.jsx       # Root component
+│   │   └── main.jsx      # Entry point
+│   ├── package.json      # Dependencies and scripts
+│   └── tailwind.config.js# Tailwind configuration
+└── README.md
