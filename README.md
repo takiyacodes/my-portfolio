@@ -31,4 +31,7 @@ my-portfolio/
 │   │   └── main.jsx      # Entry point
 │   ├── package.json      # Dependencies and scripts
 │   └── tailwind.config.js# Tailwind configuration
-└── README.md
+└── README.md 
+
+
+Repository link = https://github.com/takiyacodes/my-portfolio.git 
